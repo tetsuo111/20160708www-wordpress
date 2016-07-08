@@ -1,0 +1,21 @@
+/*
+ *	Theme Name:		サンプルコーポレーションの子テーマ
+ *	Theme URI:		http://192.168.33.10/theme/
+ *  Description:	テーマ「sample corporation」のこテーマです
+ *  Author:			えのき
+ *  Author URI:		http://192.168.33.10/
+ *  Version:		1.0.0
+ *  Template:		samplecorporation
+ *
+ *
+ *
+ */
+
+
+@import url(../samplecorporation/style.css);
+
+
+h1#archive-title{
+		font-size:1.4em;
+		margin:20px 0 60px 10px;
+}
